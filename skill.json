@@ -1,0 +1,17 @@
+{
+  "name": "genpark-simulated-annealing-combinatorial-optimizer-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Simulated Annealing Combinatorial Metaheuristic Optimizer with 2-Opt Neighborhood Perturbation",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "operations-research",
+    "simulated-annealing",
+    "metaheuristics",
+    "combinatorial-optimization"
+  ]
+}
